@@ -1,0 +1,33 @@
+[
+  {
+    "CommunityId": "f47c99f2-e893-4b90-81f9-fef239fe69c0",
+    "CommunityName": "Globant LOL Cummunity",
+    "Latitud": 19.388223,
+    "Longitude": -99.174831,
+    "TournamentTypes": [
+      "Open House"
+    ],
+    "CreationDate": "2015/11/03"
+  },
+  {
+    "CommunityId": "50a8d3aa-9d23-478c-9d2a-2db13840797e",
+    "CommunityName": "The LOL Assassin's",
+    "Latitud": 32.719878,
+    "Longitude": -117.164330,
+    "TournamentTypes": [
+      "Open House",
+      "Ligue"
+    ],
+    "CreationDate": "2015/11/04"
+  },
+  {
+    "CommunityId": "a00467c7-47d6-4eef-9f89-052ff2c8a46f",
+    "CommunityName": "UBA University Community",
+    "Latitud": 32.716000,
+    "Longitude": -117.168300,
+    "TournamentTypes": [
+      "Ligue"
+    ],
+    "CreationDate": "2015/11/03"
+  }
+]
